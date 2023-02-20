@@ -3,4 +3,4 @@
 
 Made by myself for myself, but feel free to use it if it works for you
 
-# ❗ I just started this this project so there's not much for now, and many things are surely not working ❗ 
+## ❗ I just started this project so there's not much for now, and many things are surely not working ❗ 
